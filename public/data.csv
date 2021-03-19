@@ -1,0 +1,60 @@
+Fecha,Day,Feeling,Level,Stage1Color,Stage2Color,Stage3Color,YestColor,PastYestColor,PeriodCycle,Tooltip1Feeling,Tooltip2Feeling,Tooltip3Feeling,Actitude
+30/12/2020,Wednesday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#7ea4d9,#d1e3ff,Menstruation,Sadness,Sadness,Pensiveness,Closed inwards
+31/12/2020,Thursday,Serenity,1,#f9edb4,#ffde80,#ffce00,#7ea4d9,#7ea4d9,Menstruation,Serenity,Sadness,Sadness,Extrovert
+1/1/2021,Friday,Serenity,1,#f9edb4,#ffde80,#ffce00,#f9edb4,#7ea4d9,Menstruation,Serenity,Serenity,Sadness,Enjoy my life
+2/1/2021,Saturday,Ecstasy,3,#f9edb4,#ffde80,#ffce00,#f9edb4,#f9edb4,Menstruation,Ecstasy,Serenity,Serenity,Enjoy my life
+3/1/2021,Sunday,Joy,2,#f9edb4,#ffde80,#ffce00,#ffce00,#f9edb4,Menstruation,Joy,Ecstasy,Serenity,Enjoy my life
+4/1/2021,Monday,Apprehension,1,#f4dafc,#a375b3,#53136d,#ffde80,#ffce00,Menstruation,Apprehension,Joy,Ecstasy,Task resolution
+5/1/2021,Tuesday,Apprehension,1,#f4dafc,#a375b3,#53136d,#f4dafc,#ffde80,Preovulation,Apprehension,Apprehension,Joy,Task resolution
+6/1/2021,Wednesday,Apprehension,1,#f4dafc,#a375b3,#53136d,#f4dafc,#f4dafc,Preovulation,Apprehension,Apprehension,Apprehension,Task resolution
+7/1/2021,Thursday,Apprehension,1,#f4dafc,#a375b3,#53136d,#f4dafc,#f4dafc,Preovulation,Apprehension,Apprehension,Apprehension,Task resolution
+8/1/2021,Friday,Apprehension,1,#f4dafc,#a375b3,#53136d,#f4dafc,#f4dafc,Preovulation,Apprehension,Apprehension,Apprehension,Secure
+9/1/2021,Saturday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#f4dafc,#f4dafc,Preovulation,Sadness,Apprehension,Apprehension,Powerless
+10/1/2021,Sunday,Grief,3,#ffcccc,#ed6464,#cc0000,#7ea4d9,#f4dafc,Ovulation,Grief,Sadness,Apprehension,Powerless
+11/1/2021,Monday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#cc0000,#7ea4d9,Ovulation,Sadness,Grief,Sadness,Insecure
+12/1/2021,Tuesday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#7ea4d9,#cc0000,Ovulation,Sadness,Sadness,Grief,Dobutful
+13/1/2021,Wednesday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#7ea4d9,#7ea4d9,Ovulation,Sadness,Sadness,Sadness,Dobutful
+14/1/2021,Thursday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#7ea4d9,#7ea4d9,Premenstrual,Sadness,Sadness,Sadness,Dobutful
+15/1/2021,Friday,Grief,3,#ffcccc,#ed6464,#cc0000,#7ea4d9,#7ea4d9,Premenstrual,Grief,Sadness,Sadness,Dobutful
+16/1/2021,Saturday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#cc0000,#7ea4d9,Premenstrual,Sadness,Grief,Sadness,Closed inwards
+17/1/2021,Sunday,Anger,2,#ffcccc,#ed6464,#cc0000,#7ea4d9,#cc0000,Premenstrual,Anger,Sadness,Grief,Closed inwards
+18/1/2021,Monday,Rage,3,#d1e3ff,#7ea4d9,#0269b3,#ed6464,#7ea4d9,Premenstrual,Rage,Anger,Sadness,Closed inwards
+19/1/2021,Tuesday,Annoyance,1,#ffcccc,#ed6464,#cc0000,#0269b3,#ed6464,Premenstrual,Annoyance,Rage,Anger,Closed inwards
+20/1/2021,Wednesday,Serenity,1,#f9edb4,#ffde80,#ffce00,#ffcccc,#0269b3,Premenstrual,Serenity,Annoyance,Rage,Extrovert
+21/1/2021,Thursday,Annoyance,1,#ffcccc,#ed6464,#cc0000,#f9edb4,#ffcccc,Premenstrual,Annoyance,Serenity,Annoyance,Impulsive
+22/1/2021,Friday,Annoyance,1,#ffcccc,#ed6464,#cc0000,#ffcccc,#f9edb4,Premenstrual,Annoyance,Annoyance,Serenity,Impulsive
+23/1/2021,Saturday,Serenity,1,#f9edb4,#ffde80,#ffce00,#ffcccc,#ffcccc,Premenstrual,Serenity,Annoyance,Annoyance,Secure
+24/1/2021,Sunday,Serenity,1,#f9edb4,#ffde80,#ffce00,#f9edb4,#ffcccc,Premenstrual,Serenity,Serenity,Annoyance,Secure
+25/1/2021,Monday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#f9edb4,#f9edb4,Premenstrual,Sadness,Serenity,Serenity,Secure
+26/1/2021,Tuesday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#7ea4d9,#f9edb4,Menstruation,Sadness,Sadness,Serenity,Take care of my self
+27/1/2021,Wednesday,Serenity,1,#f9edb4,#ffde80,#ffce00,#7ea4d9,#7ea4d9,Menstruation,Serenity,Sadness,Sadness,Take care of my self
+28/1/2021,Thursday,Serenity,1,#f9edb4,#ffde80,#ffce00,#f9edb4,#7ea4d9,Menstruation,Serenity,Serenity,Sadness,Take care of my self
+29/1/2021,Friday,Joy,2,#f9edb4,#ffde80,#ffce00,#f9edb4,#f9edb4,Menstruation,Joy,Serenity,Serenity,Secure
+30/1/2021,Saturday,Ecstasy,3,#f9edb4,#ffde80,#ffce00,#ffde80,#f9edb4,Menstruation,Ecstasy,Joy,Serenity,Powerful
+31/1/2021,Sunday,Serenity,1,#f9edb4,#ffde80,#ffce00,#ffce00,#ffde80,Menstruation,Serenity,Ecstasy,Joy,Powerful
+1/2/2021,Monday,Serenity,1,#f9edb4,#ffde80,#ffce00,#f9edb4,#ffce00,Preovulation,Serenity,Serenity,Ecstasy,Secure
+2/2/2021,Tuesday,Serenity,1,#f9edb4,#ffde80,#ffce00,#f9edb4,#f9edb4,Preovulation,Serenity,Serenity,Serenity,Task resolution
+3/2/2021,Wednesday,Serenity,1,#f9edb4,#ffde80,#ffce00,#f9edb4,#f9edb4,Preovulation,Serenity,Serenity,Serenity,Task resolution
+4/2/2021,Thursday,Serenity,1,#f9edb4,#ffde80,#ffce00,#f9edb4,#f9edb4,Preovulation,Serenity,Serenity,Serenity,Task resolution
+5/2/2021,Friday,Apprehension,1,#f4dafc,#a375b3,#53136d,#f9edb4,#f9edb4,Preovulation,Apprehension,Serenity,Serenity,Task resolution
+6/2/2021,Saturday,Ecstasy,3,#f9edb4,#ffde80,#ffce00,#f4dafc,#f9edb4,Preovulation,Ecstasy,Apprehension,Serenity,Feeling powerful
+7/2/2021,Sunday,Joy,2,#f9edb4,#ffde80,#ffce00,#ffce00,#f4dafc,Preovulation,Joy,Ecstasy,Apprehension,Feeling powerful
+8/2/2021,Monday,Joy,2,#f9edb4,#ffde80,#ffce00,#ffde80,#ffce00,Preovulation,Joy,Joy,Ecstasy,Task resolution
+9/2/2021,Tuesday,Joy,2,#f9edb4,#ffde80,#ffce00,#ffde80,#ffde80,Preovulation,Joy,Joy,Joy,Task resolution
+10/2/2021,Wednesday,Apprehension,1,#f4dafc,#a375b3,#53136d,#ffde80,#ffde80,Preovulation,Apprehension,Joy,Joy,Slow thinking
+11/2/2021,Thursday,Apprehension,1,#f4dafc,#a375b3,#53136d,#f4dafc,#ffde80,Ovulation,Apprehension,Apprehension,Joy,Task resolution
+12/2/2021,Friday,Apprehension,1,#f4dafc,#a375b3,#53136d,#f4dafc,#f4dafc,Ovulation,Apprehension,Apprehension,Apprehension,Task resolution
+13/2/2021,Saturday,Fear,2,#f4dafc,#a375b3,#53136d,#f4dafc,#f4dafc,Ovulation,Fear,Apprehension,Apprehension,Task resolution
+14/2/2021,Sunday,Apprehension,1,#f4dafc,#a375b3,#53136d,#a375b3,#f4dafc,Ovulation,Apprehension,Fear,Apprehension,Task resolution
+15/2/2021,Monday,Anger,2,#ffcccc,#ed6464,#cc0000,#f4dafc,#a375b3,Premenstrual,Anger,Apprehension,Fear,Task resolution
+16/2/2021,Tuesday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#ed6464,#f4dafc,Premenstrual,Sadness,Anger,Apprehension,Slow thinking
+17/2/2021,Wednesday,Anger,2,#ffcccc,#ed6464,#cc0000,#7ea4d9,#ed6464,Premenstrual,Anger,Sadness,Anger,Task resolution
+18/2/2021,Thursday,Terror,3,#f4dafc,#a375b3,#53136d,#ed6464,#7ea4d9,Premenstrual,Terror,Anger,Sadness,Slow thinking
+19/2/2021,Friday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#53136d,#ed6464,Premenstrual,Sadness,Terror,Anger,Dobutful
+20/2/2021,Saturday,Serenity,1,#f9edb4,#ffde80,#ffce00,#7ea4d9,#53136d,Premenstrual,Serenity,Sadness,Terror,Task resolution
+21/2/2021,Sunday,Serenity,1,#f9edb4,#ffde80,#ffce00,#f9edb4,#7ea4d9,Premenstrual,Serenity,Serenity,Sadness,Recovering
+22/2/2021,Monday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#f9edb4,#f9edb4,Premenstrual,Sadness,Serenity,Serenity,Secure
+23/2/2021,Tuesday,Sadness,2,#d1e3ff,#7ea4d9,#0269b3,#7ea4d9,#f9edb4,Premenstrual,Sadness,Sadness,Serenity,Take care of my self
+24/2/2021,Wednesday,Serenity,1,#f9edb4,#ffde80,#ffce00,#7ea4d9,#7ea4d9,Premenstrual,Serenity,Sadness,Sadness,Take care of my self
+25/2/2021,Thursday,Joy,2,#f9edb4,#ffde80,#ffce00,#f9edb4,#7ea4d9,Premenstrual,Joy,Serenity,Sadness,Take care of my self
+26/2/2021,Friday,Ecstasy,3,#f9edb4,#ffde80,#ffce00,#ffde80,#f9edb4,Premenstrual,Ecstasy,Joy,Serenity,Secure
